@@ -1,0 +1,5 @@
+Code for an OCR neural network with TF/Keras
+
+The training and test data is loaded from the corresponding KERAS MNIST database
+
+
